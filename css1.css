@@ -1,0 +1,161 @@
+#wrapper{
+    width: 100%;
+    margin: auto 0;
+    text-align: center;
+}
+#header{
+    width: 100%;
+    height: 100px;
+    background:rgb(66, 64, 64);
+    margin-bottom: auto;
+    text-decoration-color: white;
+}
+#topteks{
+    text-align: center;
+}
+#content{
+    padding: 20px;
+    background-image: url('latar1.jpg');
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+#artikel{
+    width: 600px;
+    height: 700px;
+    float: left;
+    background:lightgoldenrodyellow ;
+    border-color: darkgray;
+    border-style:groove ;
+    border-width:10px ;
+    
+}
+#sidebar{
+    width: 250px;
+    height: 250px;
+    float: right ;
+    background: lightgoldenrodyellow;
+    border-color: darkgray;
+    border-style: groove;
+    border-width: 10px;
+}
+h2{
+    color: black;
+}
+form {
+    width:500px;
+    text-align: left;
+
+}
+.search{
+    padding:8px 15px;
+    background:rgba(50, 50, 50,0.2);
+    border:0px solid white;
+}
+.button {
+    position:relative;
+    padding:6px 15px;
+    left:-15px;
+    border:2px solid #53bd84;
+    background-color:#53bd84;
+    color:white;
+}
+#footer{
+    width: 100%;
+    height: 50px;
+    background:rgb(66, 64, 64);
+}
+.tulisanbawah{
+    color: white;
+    float: right;
+    padding-right: 15px;
+}
+#button{
+    background-color: #34495e;
+    width: 100px;
+    height: fit-content;
+    padding: 5px 0 10px 0;
+    text-decoration:none ;
+}
+img{
+    float: left;
+    height: 250px;
+    width: 250px;
+}
+
+.home{
+    float: left;
+    width: 100px;
+    height: 20px;
+    margin-left:100px;
+    background:darkgray;
+    border-color:white;
+    border-style: outset;
+    border-width: 10px;
+}
+.home a{
+    text-decoration: none;
+    color: initial;
+    font-family: fantasy;
+}
+.genre{
+    float: right;
+    width: 100px;
+    height: 20px;
+    margin-right:100px;
+    background:darkgray;
+    border-color: white;
+    border-style: outset;
+    border-width: 10px;
+}
+.genre a{
+    text-decoration: none;
+    color:initial;
+    font-family: fantasy;
+}
+.how{
+    float: none;
+    width: 200px;
+    height: 30px;
+    margin-inline:100px;
+    background:darkgray;
+    border-color: white;
+    border-style: outset;
+    border-width: 10px;
+}
+.how a{
+    text-decoration: none;
+    color:initial;
+    font-family: fantasy;
+}
+.download{
+    float: none;
+    width: 200px;
+    height: 30px;
+    margin-inline:300px;
+    background:#18ac5d;
+    border-color:black;
+    border-style: solid;
+    border-width: 5px;
+}
+.download a{
+    text-decoration: none;
+    color:whitesmoke;
+    font-family: unset;
+    padding: 5px;
+}
+.downloadvx{
+    float: inherit;
+    width: 200px;
+    height: 30px;
+    margin-inline:300px;
+    background:#18ac5d;
+    border-color:black;
+    border-style: solid;
+    border-width: 5px;
+}
+.downloadvx a{
+    text-decoration: solid;
+    color:whitesmoke;
+    font-family: unset;
+    padding: 5px;
+}
